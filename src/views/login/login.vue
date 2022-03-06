@@ -1,0 +1,1 @@
+<template>$END$</template><script>export default{  name:"login",   components: {  },  mixins: [],  props: {},  data () {    return {}  },  computed: {},  watch: {},  created () {},  mounted () {},  destroyed () {},  methods: {},}</script><style lang="scss" scoped></style>
